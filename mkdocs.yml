@@ -50,14 +50,18 @@ markdown_extensions:
 site_name: Insights by Manikanth
 site_url: https://manikanthr5.github.io/insights
 copyright: Copyright &copy; 2022 @manikanthr5
-extra:
-  generator: false
 
 # Page Tree
 nav:
-  - Home: index.md
-  - PyTorch: pytorch.md
-  - Scikit Learn: scikit.md
-  - Blog: 
-    - blog/index.md
+  - Home: index.md 
+  - Data Science: 
+    - Data Science: data-science/index.md 
+    - Data Science Basics: data-science/basics/index.md 
+    - Data Science Advanced: data-science/advanced/index.md 
+  - Deep Learning: 
+    - Deep Learning: deep-learning/index.md 
+    - Deep Learning Basics: deep-learning/basics/index.md 
+    - Deep Learning Basics: deep-learning/advanced/index.md 
+  - Kaggle: kaggle/index.md 
+  - Blog: blog/index.md 
 

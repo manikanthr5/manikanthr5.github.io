@@ -1,32 +1,28 @@
-## Data By Examples
+# Insights 
+Hi There. Thank you for checking my GitHub Repository. If you would like to go through the insights I write about the Kaggle Competitions I work on or on the Data Science and Deep Learning topics, please go through <a href="https://manikanthr5.github.io/insights/" target="_blank" label="Insights Blog by Manikanth Reddy">my website</a>. 
 
-## Contents
-- [Scikit Learn](/scikit)
-- [PySpark](/pyspark)
-- [PyTorch](/pytorch)
+## Contens
+- [Kaggle Competitions](#kaggle-competitions)
+- [Data Science](#data-science)
+  - [Data Science Basics](#data-science-basics)
+  - [Data Science Advanced](#data-science-advanced)
+- [Deep Learning](#deep-learning)
+  - [Deep Learning Basics](#deep-learning-basics)
+  - [Deep Learning Advanced](#deep-learning-advanced)
 
-## How to use
+## Kaggle Competitions
+I participate on Kaggle with the user id of <a href="https://kaggle.com/manikanthr5/" target="_blank" label="Manikanth Reddy on Kaggle">@manikanthr5</a>. Do checkout my profile and don't hesitate to reach out to me if you want to team up or want to discuss any of the past competitions. 
 
-1. Edit `mkdocs.yml` and `docs/index.md`, add more files if needed.
-2. Add the pip package to `requirements.txt` . (Themes and plugins)
-3. Use the Vercel command: `vercel dev` `vercel` and `vercel --prod`  
-or commit to a Git project: `git push`
+For the ongoing competitions, I share my insights on the competitions discussions corner or through the notebooks I share publically. If you would like to discuss about any of the ongoing competitions, please kindly try to team up with me or wait till the end of the competition if you are also participating in the same. 
 
-You do not need to change the `Build & Development Settings` item.
+## Data Science
 
-## Build error
+### Data Science Basics
 
-Many of the build error are that you mistyped `mkdocs.yml`
-or you forgot to add the package to` requirements.txt`.
-Check the file change immediately before the error occurred.
+### Data Science Advanced
 
-This is often not a problem with this project.
-You should not open an issue for that.
+## Deep Learning
 
-## Fork of this project
+### Deep Learning Basics
 
-If you fork this project, be sure to change something and commit.
-If you re-deploy without changing anything, it's my commit and I'll be notified.
-
-You can also create a new project without forking or use the [Vercel CLI](https://vercel.com/docs/cli) without creating a project.
-
+### Deep Learning Advanced

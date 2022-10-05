@@ -1,17 +1,19 @@
-# Vercel-MkDocs
+# Insights by Manikanth
+Hi There. Thanks for checking out my website. I use this part of my website to share my learning on Data Science, Deep Learning and Other Computer Science Technologies. The main contents of the website include:
 
-<https://github.com/fu-sen/Vercel-MkDocs>
+- [Kaggle Competitions](/kaggle/)
+- [Data Science](/data-science/)
+    * [Basics](/data-science/basics/)
+    * [Advanced](/data-science/advanced/)
+- [Deep Learning](/deep-learning/)
+    * [Basics](/deep-learning/basics/)
+    * [Advanced](/deep-learning/advanced/)
 
-**MkDocs with ▲Vercel (minimal configuration)**
+## Kaggle Competitions
+I participate on Kaggle with the user id of <a href="https://kaggle.com/manikanthr5/" target="_blank" label="Manikanth Reddy on Kaggle">@manikanthr5</a>. Do checkout my profile and don't hesitate to reach out to me if you want to team up or want to discuss any of the past competitions. 
 
-- [▲ Vercel](https://vercel.com/)
-- [MkDocs](https://www.mkdocs.org/)
+For the ongoing competitions, I share my insights on the competitions discussions corner or through the notebooks I share publically. If you would like to discuss about any of the ongoing competitions, please kindly try to team up with me or wait till the end of the competition if you are also participating in the same. 
 
-## How to use
-
-1. Edit `mkdocs.yml` and `docs/index.md`, add more files if needed.
-2. Add the pip package to `requirements.txt` . (Themes and plugins)
-3. Use the Vercel command: `vercel dev` `vercel` and `vercel --prod`  
-or commit to a Git project: `git push`
-
-You do not need to change the `Build & Development Settings` item.
+## Acknowledgements
+- <a href="https://www.mkdocs.org/" target="_blank" title="MKDocs">MKDocs</a>
+- <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" title="Material for MKDocs">Material for MKDocs</a>
