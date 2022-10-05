@@ -1,0 +1,13 @@
+jinja2
+markdown
+mkdocs
+mkdocs-material
+mkdocstrings
+mkdocs-material-extensions
+pygments
+pymdown-extensions
+requests
+
+#Add pip package if needed
+#mkdocs-bootswatch
+#mkdocs-minify-plugin
