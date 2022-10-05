@@ -51,6 +51,21 @@ site_name: Insights by Manikanth
 site_url: https://manikanthr5.github.io/insights
 copyright: Copyright &copy; 2022 @manikanthr5
 
+# Repository
+repo_name: manikanthr5/insights
+repo_url: https://github.com/manikanthr5/insights
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/manikanthr5
+    - icon: fontawesome/brands/linkedin-in
+      link: https://linkedin.com/in/manikanthr5
+    - icon: fontawesome/brands/kaggle
+      link: https://kaggle/manikanthr5
+    - icon: fontawesome/solid/envelope
+      link: mailto://manikanth.iitkgp@gmail.com
+
 # Page Tree
 nav:
   - Home: index.md 
