@@ -1,5 +1,6 @@
 # Transformer Models Optimization Techniques
 I have been working on transformer models for a quite a while now. What I understand when I try to apply them for my problems is that:
+
 - They are not easy to train / fine-tune
 - They are difficult to explain
 - They are difficult to deploy
