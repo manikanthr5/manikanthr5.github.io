@@ -48,7 +48,7 @@ markdown_extensions:
       toc_depth: 3
 
 site_name: Insights by Manikanth
-site_url: https://manikanthr5.github.io/insights
+site_url: https://manikanthr5.github.io/insights/
 copyright: Copyright &copy; 2022 @manikanthr5
 
 # Repository
@@ -76,7 +76,9 @@ nav:
   - Deep Learning: 
     - Deep Learning: deep-learning/index.md 
     - Deep Learning Basics: deep-learning/basics/index.md 
-    - Deep Learning Basics: deep-learning/advanced/index.md 
+    - Deep Learning Advanced: 
+      - Deep Learning Advanced Topics: deep-learning/advanced/index.md 
+      - Transformer Optimization Techniques: deep-learning/advanced/transformer-optimization-techniques.md
   - Kaggle: kaggle/index.md 
   - Blog: blog/index.md 
 

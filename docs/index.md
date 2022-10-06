@@ -14,6 +14,17 @@ I participate on Kaggle with the user id of <a href="https://kaggle.com/manikant
 
 For the ongoing competitions, I share my insights on the competitions discussions corner or through the notebooks I share publically. If you would like to discuss about any of the ongoing competitions, please kindly try to team up with me or wait till the end of the competition if you are also participating in the same. 
 
+## Deep Learning
+
+### Deep Learning Basics
+
+
+### Deep Learning Advanced
+- [Transformer Optimization Techniques](/insights/deep-learning/advanced/transformer-optimization-techniques/)
+
+
+Please let me know if you have any suggestions.
+
 ## Acknowledgements
 - <a href="https://www.mkdocs.org/" target="_blank" title="MKDocs">MKDocs</a>
 - <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" title="Material for MKDocs">Material for MKDocs</a>
