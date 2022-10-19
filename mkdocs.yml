@@ -1,14 +1,20 @@
 theme:
   name: material
+  custom_dir: overrides
   feature:
     tabs: true
   features:
     - navigation.tabs
+    # - navigation.tabs.sticky
     - navigation.sections
+    - navigation.indexes
     - navigation.instant
     - navigation.top
     - navigation.tracking
     - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
   palette:
     - scheme: default
       primary: indigo
@@ -54,6 +60,7 @@ copyright: Copyright &copy; 2022 @manikanthr5
 # Repository
 repo_name: manikanthr5/insights
 repo_url: https://github.com/manikanthr5/insights
+edit_uri: ""
 
 extra:
   social:
@@ -65,6 +72,9 @@ extra:
       link: https://kaggle/manikanthr5
     - icon: fontawesome/solid/envelope
       link: mailto://manikanth.iitkgp@gmail.com
+  analytics:
+    provider: google
+    property: G-GS41WHEFVR
 
 # Page Tree
 nav:

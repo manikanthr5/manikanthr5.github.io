@@ -1,3 +1,10 @@
+---
+title: 
+hide:
+  - navigation
+  - toc
+---
+
 # Insights by Manikanth
 Hi There. Thanks for checking out my website. I use this part of my website to share my learning on Data Science, Deep Learning and Other Computer Science Technologies. The main contents of the website include:
 
