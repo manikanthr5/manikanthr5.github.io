@@ -15,6 +15,10 @@ I participate on Kaggle with the user id of <a href="https://kaggle.com/manikant
 
 For the ongoing competitions, I share my insights on the competitions discussions corner or through the notebooks I share publically. If you would like to discuss about any of the ongoing competitions, please kindly try to team up with me or wait till the end of the competition if you are also participating in the same. 
 
+- [Feedback Prize - English Language Learning](#feedback-prize---english-language-learning) - [link](https://www.kaggle.com/competitions/feedback-prize-english-language-learning) 
+- [Riiid Answer Correctness Prediction](#riiid-answer-correctness-prediction) - [link](https://www.kaggle.com/competitions/riiid-test-answer-prediction) 
+- [Mechanisms of Action (MoA) Prediction](#mechanisms-of-action-moa-prediction) - [link](https://www.kaggle.com/competitions/lish-moa) 
+
 ## Data Science
 
 ### Data Science Basics

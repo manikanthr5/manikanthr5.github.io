@@ -8,13 +8,13 @@ hide:
 # Insights by Manikanth
 Hi There. Thanks for checking out my website. I use this part of my website to share my learning on Data Science, Deep Learning and Other Computer Science Technologies. The main contents of the website include:
 
-- [Kaggle Competitions](/kaggle/)
-- [Data Science](/data-science/)
-    * [Basics](/data-science/basics/)
-    * [Advanced](/data-science/advanced/)
-- [Deep Learning](/deep-learning/)
-    * [Basics](/deep-learning/basics/)
-    * [Advanced](/deep-learning/advanced/)
+- [Kaggle Competitions](/insights/kaggle/)
+- [Data Science](/insights/data-science/)
+    * [Basics](/insights/data-science/basics/)
+    * [Advanced](/insights/data-science/advanced/)
+- [Deep Learning](/insights/deep-learning/)
+    * [Basics](/insights/deep-learning/basics/)
+    * [Advanced](/insights/deep-learning/advanced/)
 
 ## Kaggle Competitions
 I participate on Kaggle with the user id of <a href="https://kaggle.com/manikanthr5/" target="_blank" label="Manikanth Reddy on Kaggle">@manikanthr5</a>. Do checkout my profile and don't hesitate to reach out to me if you want to team up or want to discuss any of the past competitions. 
