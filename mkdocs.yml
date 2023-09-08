@@ -32,7 +32,7 @@ theme:
 # Plugings
 plugings:
   - search
-  - tags: 
+  - tags:
     enabled: true
   - blog:
     enabled: true
@@ -78,21 +78,21 @@ extra:
 
 # Page Tree
 nav:
-  - Home: index.md 
-  - Data Science: 
-    - Data Science: data-science/index.md 
-    - Data Science Basics: data-science/basics/index.md 
-    - Data Science Advanced: data-science/advanced/index.md 
-  - Deep Learning: 
-    - Deep Learning: deep-learning/index.md 
-    - Deep Learning Basics: deep-learning/basics/index.md 
-    - Deep Learning Advanced: 
-      - Deep Learning Advanced Topics: deep-learning/advanced/index.md 
-      - Transformer Optimization Techniques: deep-learning/advanced/transformer-optimization-techniques.md
-  - Kaggle: 
-    - kaggle/index.md 
-    - Feedback Prize - English Language Learning: kaggle/feedback-prize---english-language-learning.md
-    - Riiid Answer Correctness Prediction: kaggle/riiid-answer-correctness-prediction.md
-    - Mechanisms of Action (MoA) Prediction: kaggle/mechanisms-of-action-moa-prediction.md
-  - Blog: blog/index.md 
-
+  - Home: index.md
+  - Data Science:
+      - Data Science: data-science/index.md
+      - Data Science Basics: data-science/basics/index.md
+      - Data Science Advanced: data-science/advanced/index.md
+  - Deep Learning:
+      - Deep Learning: deep-learning/index.md
+      - Deep Learning Basics: deep-learning/basics/index.md
+      - Deep Learning Advanced:
+          # - Deep Learning Advanced Topics: deep-learning/advanced/index.md
+          - Multihead Attenion: deep-learning/advanced/multihead-attention.md
+          - Transformer Optimization Techniques: deep-learning/advanced/transformer-optimization-techniques.md
+  - Kaggle:
+      - kaggle/index.md
+      - Feedback Prize - English Language Learning: kaggle/feedback-prize---english-language-learning.md
+      - Riiid Answer Correctness Prediction: kaggle/riiid-answer-correctness-prediction.md
+      - Mechanisms of Action (MoA) Prediction: kaggle/mechanisms-of-action-moa-prediction.md
+  - Blog: blog/index.md
