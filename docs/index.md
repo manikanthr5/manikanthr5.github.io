@@ -1,9 +1,12 @@
 ---
-title:
+title: Manikanth Reddy
 hide:
   - navigation
   - toc
 ---
+
+# Manikanth Reddy
+Thank you for taking time to check out my website. Following list provided the overall outline of my website.
 
 <div class="grid cards" markdown>
 
