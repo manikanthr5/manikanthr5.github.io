@@ -4,7 +4,7 @@ theme:
   features:
     - navigation.tabs
     # - navigation.tabs.sticky
-    # - navigation.sections
+    - navigation.sections
     - navigation.indexes
     - navigation.instant
     - navigation.top
@@ -45,13 +45,13 @@ plugins:
       archive_url_format: "archive/{date}"
       archive_pagination: true
       archive_pagination_per_page: 10
-      archive_toc: false
+      archive_toc: true
       categories: true
       # categories_name: Categories
       categories_url_format: "category/{slug}"
       categories_pagination: true
       categories_pagination_per_page: 10
-      categories_toc: false
+      categories_toc: true
       authors: true
       authors_profiles_url_format: "author/{slug}"
       authors_profiles_pagination: true
@@ -71,6 +71,10 @@ plugins:
 # Extensions
 markdown_extensions:
   - abbr
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - admonition
   - footnotes
   - md_in_html
@@ -81,8 +85,9 @@ markdown_extensions:
       permalink: true
       toc_depth: 3
 
-site_name: ML Blog
+site_name: Manikanth
 site_url: https://manikanthr5.github.io/
+site_author: Manikanth Reddy
 copyright: Copyright &copy; 2022 @manikanthr5
 
 # Repository
@@ -120,6 +125,9 @@ nav:
   - Blog:
       - blog/index.md
   - About:
-      - About: about/index.md
+      - About Manikanth Reddy: about/index.md
       - Contact: about/contact.md
       - Disclaimer: about/disclaimer.md
+      - List 100: about/list-100.md
+      - India Tours: about/india-tours.md
+      - Visit 100 Countries: about/visit-100-countries.md
