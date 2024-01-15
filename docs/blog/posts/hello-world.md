@@ -1,15 +1,14 @@
 ---
-draft: true 
-date: 2022-01-31
+draft: false
+date: 2024-01-15
 categories:
   - Hello
   - World
 tags:
   - Foo
   - Bar
-links:
-
 ---
+
 # Hello world!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -18,6 +17,5 @@ massa, nec semper lorem quam in massa.
 
 <!-- more -->
 
-Another Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
 nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa.
