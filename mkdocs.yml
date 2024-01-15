@@ -53,13 +53,13 @@ markdown_extensions:
       permalink: true
       toc_depth: 3
 
-site_name: Insights by Manikanth
-site_url: https://manikanthr5.github.io/insights/
+site_name: ML Blog
+site_url: https://manikanthr5.github.io/blog/
 copyright: Copyright &copy; 2022 @manikanthr5
 
 # Repository
-repo_name: manikanthr5/insights
-repo_url: https://github.com/manikanthr5/insights
+repo_name: manikanthr5/blog
+repo_url: https://github.com/manikanthr5/blog
 edit_uri: ""
 
 extra:
