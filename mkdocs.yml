@@ -82,12 +82,12 @@ markdown_extensions:
       toc_depth: 3
 
 site_name: ML Blog
-site_url: https://manikanthr5.github.io/blog/
+site_url: https://manikanthr5.github.io/
 copyright: Copyright &copy; 2022 @manikanthr5
 
 # Repository
-repo_name: manikanthr5/blog
-repo_url: https://github.com/manikanthr5/blog
+repo_name: manikanthr5/manikanthr5.github.io
+repo_url: https://github.com/manikanthr5/manikanthr5.github.io
 edit_uri: ""
 
 extra:
