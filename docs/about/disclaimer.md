@@ -1,6 +1,6 @@
 # Disclaimer
 
-This blog is a personal space created and maintained by **Manikanth Reddy Gonchi**, and its primary purpose is to share thoughts, insights, and experiences related to machine learning (ML). The content provided here is based on personal opinions, observations, and knowledge up to the date mentioned on the site.
+This blog is a personal space created and maintained by **Manikanth Reddy Gonchi**, and its primary purpose is to share his thoughts, insights, and experiences related to machine learning (ML) and his personal life. The content provided here is based on his personal opinions, observations, and knowledge up to the date mentioned on the site.
 
 1. Accuracy and Currency:
 While every effort is made to ensure the accuracy of the information presented, the field of machine learning is dynamic, and updates may occur rapidly. Therefore, the content on this blog may not always reflect the most current developments. Readers are encouraged to verify information independently and seek professional advice if necessary.
