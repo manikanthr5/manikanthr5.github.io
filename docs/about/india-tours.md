@@ -2,10 +2,10 @@
 layout: page
 title: "India Tours"
 description: "List of tourist places in India that I have visited."
-background: '/img/cover-photos/map of india - my tours.png'
+background: "/img/cover-photos/map of india - my tours.png"
 ---
 
-In this page, I will track the list of tourist places that I got to visit/want to visit in India. 
+In this page, I will track the list of tourist places that I got to visit/want to visit in India.
 
 NOTE: I have tried highlight the places I have visited with yellow mark on the map.
 
@@ -38,6 +38,8 @@ NOTE: I have tried highlight the places I have visited with yellow mark on the m
 1. ✓ Kodaikanal - bike trip in 2023
 1. ✓ Yercaud - bike trip in 2023
 1. ✓ Isha Foundation - Chikballapur - bike trip in 2024
-1. ✗ Indore - trip planned in 2024
-1. ✗ 
-1. ✗ 
+1. ✓ Indore - Sheetal's marriage trip in 2024
+1. ✓ Bhopal - Sheetal's marriage trip in 2024
+1. ✓ Wayanad - trip in 2024
+1. ✗
+1. ✗

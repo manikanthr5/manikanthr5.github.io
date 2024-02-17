@@ -5,7 +5,7 @@ description: "Things I want to do before I die. Please let me know if you have a
 background: "/assets/img/bg-about-me.jpg"
 permalink: /list-100
 authors:
-    - manikanthr5
+  - manikanthr5
 ---
 
 I want to prepare the list of my 100 things to do before I die after looking at <a href="https://huyenchip.com/list-100/" target="_blank">Chip Huyen's List 100</a>. Please let me know if you have any recommendation.
@@ -35,12 +35,11 @@ Progress as of Apr 25, 2023: 3/43.
 1. ✗ Fund Dakshana Foundation
 1. ✗ Fund JNV Anantapur
 1. ✗ Go on a trip overseas with my whole family
-1. ✗ Run a marathon
 1. ✗ Get 6 packs
 1. ✗ Drive a car in Bangalore traffic
 1. ✗ Publish a python package
 1. ✗ Create my own programming language
-1. ✓ Take a walk in the rain - [Coorg Trip]
+1. ✓ Take a walk in the rain for an hour - [Coorg Trip]
 1. ✓ Ride a bike in mountain roads during heavy rains - [Kodaikanal Bike Trip]
 1. ✗ Meet Eiichiro Oda
 1. ✗ Publish a manga
@@ -82,8 +81,8 @@ Some life lessons learnt by experience or read online:
 5. You don't need to have an opinion on everything. It's perfectly reasonable to have no opinion on something that you haven't researched or don't understand.
 6. You probably won't be remembered or have a legacy. In a few thousand years, chances are we will all be forgotten.
 7. You can tell everything you need to know about a person by observing:
-   1. how they treat service workers and
-   2. whether they put their shopping cart back.
+   - how they treat service workers and
+   - whether they put their shopping cart back.
 8. You can get pretty damn far in life by just saying what you're going to do and then doing it. No fancy hack needed.
 9. Most of us need fewer friends and more intellectual sparring partners. Friends are easy to come by, but intellectual sparring partners question our assumptions and force us to level up.
 10. Being kind to people is the only real life hack. Kindness remains severely underrated.
