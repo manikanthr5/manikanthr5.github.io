@@ -10,7 +10,7 @@ authors:
 
 I want to prepare the list of my 100 things to do before I die after looking at <a href="https://huyenchip.com/list-100/" target="_blank">Chip Huyen's List 100</a>. Please let me know if you have any recommendation.
 
-Progress as of Apr 25, 2023: 3/43.
+Progress as of Feb 18, 2023: 4/41.
 
 1. ✗ Visit Manali
 1. ✗ Visit Mountain View Google Office
@@ -49,7 +49,6 @@ Progress as of Apr 25, 2023: 3/43.
 1. ✗ Play poker in a casino
 1. ✗ Win a poker tournament
 1. ✗ Create a band and play at a concert or a pub
-1. ✗ Ask a stranger out for a date
 1. ✗ Start an apparel brand
 1. ✓ Go on a solo bike trip
 1. ✗ Be in a movie/commercial
@@ -68,8 +67,8 @@ But always:
 
 Removed:
 
-- Read 100 books [12/100] -> Realized that it's much more impressive to read one book and have it deeply impact you than to read 100 books and not feel a thing.
-- Read 1000 books [12/1000] -> Same as above
+- Read 100 books [14/100] -> Realized that it's much more impressive to read one book and have it deeply impact you than to read 100 books and not feel a thing.
+- Read 1000 books [14/1000] -> Same as above
 - Other list items that involve some other persons involvement.
 
 Some life lessons learnt by experience or read online:
