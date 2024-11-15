@@ -11,3 +11,4 @@ requests
 #Add pip package if needed
 #mkdocs-bootswatch
 #mkdocs-minify-plugin
+mkdocs-redirects
