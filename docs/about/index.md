@@ -28,18 +28,10 @@ In my free time, I work on [Kaggle](https://kaggle.com/manikanthr5), go on trips
 
 My current ML research interests include:
 
-- Recommendation systems
+- Search & Recommendation systems
 - Multi-modal representation learning
 - Natural language processing and language models
 - Self-supervised and semi-supervised Learning
-
-I am also interested in:
-
-- Even through I work as an ML Engineer, I am very much interested in desiging and developing non-ML systems as well. I plan to work at an early-stage startup or start my own company in the future.
-- For the early-stage startups, I would only prefer the companies which:
-
-  - Are working on a mission which I believe in.
-  - Have a great team and culture.
 
 ---
 
@@ -51,6 +43,7 @@ As an ML Tech Lead at Bloomreach, I am responsible for:
 - Participate in, and leading ML/AI design reviews with peers and stakeholders to decide amongst available technologies.
 - Mentoring and guiding junior ML & software engineers - reviewing their models & code and to provide feedback to ensure best practices.
 - Working cross-functionally with product managers, engineers, and program managers to develop and deploy AI/ML solutions.
+- Leading the Data Science team effort on improving Search by incorportaing <a href="https://www.bloomreach.com/en/blog/the-path-to-achieving-true-1-to-1-personalization" target="_blank" title="1:1 Personalization for eCommerce by Bloomreach">User level Personalization to the ranker models</a>.
 - Developing Complete the Look product which allows our customers to suggest automated looks for products to their users. This is currently manually done by fashion experts and doesn't scale well.
 - Developing Shop The Look (or Visual Search) product which allows our customers (merchants like Puma, Albertsons etc.) to allows their shoppers to search using Images on their websites. It will be similar to <a href="https://lens.google/" target="_blank" title="Google Lens">Google Lens</a> or <a href="https://www.amazon.com/shopthelook" target="_blank" title="Amazon Shop the Look">Amazon's Shop The Look</a>, but more towards Apparel, Fashion and Home Decor.
 - Improving the existing Similar Product Recommendations (called More Like This or MLT) using Deep Learning. We are using <a href="https://arxiv.org/abs/1706.03762" target="_blank" title="Transformers Deep Learning Model"> Transformers</a> based <a href="https://arxiv.org/abs/1810.04805" target="_blank" title="Trasformer based BERT Model">BERT variant model</a>. This product was launched on March 23, 2022 and is available in production to be used by our customers.
