@@ -51,7 +51,7 @@ Thank you for taking time to check out my website. Following list provides the o
     - Paper Summaries
     - Recommended Articles
 
-    [:octicons-arrow-right-24: Read ML notes](#)
+    <!-- [:octicons-arrow-right-24: Read ML notes](#) -->
 
 -   :simple-blogger:{ .lg .middle } __Blog__
 

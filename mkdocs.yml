@@ -115,8 +115,8 @@ extra:
 # Page Tree
 nav:
   - Home: index.md
-  - Notes:
-      - notes/index.md
+  # - Notes:
+  #     - notes/index.md
   - Kaggle:
       - kaggle/index.md
       - Feedback Prize - English Language Learning:
