@@ -67,6 +67,9 @@ plugins:
       draft_on_serve: true
       draft_if_future_date: true
   - search
+  - redirects:
+      redirect_maps:
+        "work-experience.md": "about/index.md"
 
 # Extensions
 markdown_extensions:
