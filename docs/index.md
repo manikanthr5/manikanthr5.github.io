@@ -22,6 +22,25 @@ Thank you for taking time to check out my website. Following list provides the o
 
     [:octicons-arrow-right-24: Learn about me](/about)
 
+-   :material-list-status:{ .lg .middle } __List 100__
+
+    ---
+
+    I am maintaining a list of 100 things I want to do in my life, following <a href="https://huyenchip.com/list-100/" target="_blank">Chip Huyen's List</a>. I will be updating the list as I complete them. 
+
+    [:octicons-arrow-right-24: Check my List 100](/about/list-100/)
+
+-   :fontawesome-brands-kaggle:{ .lg .middle } __Kaggle Competitions__
+
+    ---
+
+    I try to find time to participate in Kaggle competitions when possible and write my insights on this blog. 
+    
+    - Tips & Tricks
+    - Competitions Insights
+
+    [:octicons-arrow-right-24: Check Kaggle Insights](/kaggle/)
+
 -   :notepad_spiral:{ .lg .middle } __ML Notes__
 
     ---
@@ -45,25 +64,6 @@ Thank you for taking time to check out my website. Following list provides the o
     - Intesting things I find on the internet
 
     [:octicons-arrow-right-24: Checkout latest blog posts](/blog)
-
--   :fontawesome-brands-kaggle:{ .lg .middle } __Kaggle Competitions__
-
-    ---
-
-    I try to find time to participate in Kaggle competitions when possible and write my insights on this blog. 
-    
-    - Tips & Tricks
-    - Competitions Insights
-
-    [:octicons-arrow-right-24: Check Kaggle Insights](/kaggle/)
-
--   :material-list-status:{ .lg .middle } __List 100__
-
-    ---
-
-    I am maintaining a list of 100 things I want to do in my life, following <a href="https://huyenchip.com/list-100/" target="_blank">Chip Huyen's List</a>. I will be updating the list as I complete them. 
-
-    [:octicons-arrow-right-24: Check my List 100](/about/list-100/)
 
 -   :material-web:{ .lg .middle } __Contact \ Follow Me On__
 
