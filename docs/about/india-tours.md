@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "India Tours"
+title: "India Tours [not maintained]"
 description: "List of tourist places in India that I have visited."
 background: "/img/cover-photos/map of india - my tours.png"
 ---
 
-In this page, I will track the list of tourist places that I got to visit/want to visit in India.
+In this page, I will track the list of tourist places that I got to visit/want to visit in India. This is not maintained any more
 
 NOTE: I have tried highlight the places I have visited with yellow mark on the map.
 

@@ -10,32 +10,32 @@ authors:
 
 I want to prepare the list of my 100 things to do before I die after looking at <a href="https://huyenchip.com/list-100/" target="_blank">Chip Huyen's List 100</a>. Please let me know if you have any recommendation.
 
-Progress as of Feb 18, 2023: 4/41.
+Progress as of Sep 19, 2026: 7/41.
 
 1. ✗ Visit Manali
 1. ✗ Visit Mountain View Google Office
 1. ✗ <a href="/about/visit-100-countries" target="_blank" title="visit 100 countries">Visit 100 countries</a> [1/100]
 1. ✗ Fly an aeroplane
-1. ✗ See Kashmir
-1. ✗ Build a house for my parents - [Planned]
+1. ✓ See Kashmir
+1. ✓ Build a house for my parents
 1. ✗ Run a marathon
 1. ✗ Learn to Ski
 1. ✗ Scuba Dive
 1. ✗ Bungee Jump
 1. ✓ Do paragliding - [Nepal Trip]
-1. ✗ Invest regularly for 20 years - [Need to Restart]
+1. ✗ Invest regularly for 20 years - [In Progress]
 1. ✗ Publish a patent [In Progress]
 1. ✗ Become the first author of a paper published at a top tier conference
 1. ✗ Became a Kaggle Grandmaster in Competitions
 1. ✗ Rank in top 10 in Kaggle Competitions Grandmaster list
 1. ✗ Start a nonprofit organization - Got a chance but wasn't able to collect to commit.
 1. ✗ Learn Japanese
-1. ✗ Live in another country
+1. ✓ Live in another country - [Currently living in USA]
 1. ✗ Start a company
 1. ✗ Fund Dakshana Foundation
 1. ✗ Fund JNV Anantapur
 1. ✗ Go on a trip overseas with my whole family
-1. ✗ Get 6 packs
+1. ✗ Get 6 packs - [In Progress :P]
 1. ✗ Drive a car in Bangalore traffic
 1. ✗ Publish a python package
 1. ✗ Create my own programming language
@@ -51,11 +51,11 @@ Progress as of Feb 18, 2023: 4/41.
 1. ✗ Create a band and play at a concert or a pub
 1. ✗ Start an apparel brand
 1. ✓ Go on a solo bike trip
-1. ✗ Be in a movie/commercial
+1. ✗ Be in a movie/commercial - [Supposed to be there but missed]
 1. ✗ Design and publish a game
-1. ✗
-1. ✗
-1. ✗
+1. ✗ Visit Antartika
+1. ✗ Trek to Himalaya Base Camp
+1. ✗ 
 1. ✗
 1. ✗
 

@@ -45,7 +45,7 @@ Thank you for taking time to check out my website. Following list provides the o
 
     ---
 
-    I work as an ML Engineer and I write notes on ML topics I learn. I write about:
+    I work as an Staff Machine Learning Engineer and I write notes on ML topics I learn. I write about:
     
     - Book Reviews
     - Paper Summaries
